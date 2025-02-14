@@ -1,2 +1,3 @@
 # algorithmic_composition
- Material for myxPyConDE 2025 talk
+
+ Material for my PyConDE 2025 talk
