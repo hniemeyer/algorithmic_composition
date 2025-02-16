@@ -9,3 +9,7 @@
 <https://youtu.be/SDLzbiYI2j4?si=Sw3baSGsgcO83pG5>
 
 <https://youtu.be/jmngXi12GTw?si=pmf2pIvP7C-EcCpX>
+
+<https://youtu.be/FDbhXF-dSSk?si=XC2ADMlPcHVSwhkV>
+
+<https://github.com/Skripkon/piano-music-generator>
